@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/Berlin",
+  "dataStudio": {
+    "name": "Marketplace Transactions Connector",
+    "logoUrl": "https://seibert.biz/logosquareblack",
+    "company": "//SEIBERT/MEDIA GmbH",
+    "companyUrl": "https://seibert-media.net/",
+    "addonUrl": "https://seibert.biz/atlassian",
+    "supportUrl": "https://seibert.biz/support",
+    "description": "Get all Atlassian marketplace transaction, license, and feedback data for a given vendor into Google Data Studio",
+    "shortDescription": "Retrieve statistics about your Atlassian marketplace account",
+    "authType": ["NONE"],
+    "feeType": ["PAID"]
+  }
+}

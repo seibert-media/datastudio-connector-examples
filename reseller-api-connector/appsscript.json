@@ -1,0 +1,23 @@
+{
+  "timeZone": "Europe/Berlin",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "AdminReseller",
+      "serviceId": "reseller",
+      "version": "v1"
+    }]
+  },
+  "dataStudio": {
+    "name": "Reseller Stats",
+    "logoUrl": "https://seibert.biz/logosquareblack",
+    "company": "//SEIBERT/MEDIA GmbH",
+    "companyUrl": "https://seibert-media.net/",
+    "addonUrl": "https://seibert.biz/gsuite",
+    "supportUrl": "https://seibert.biz/gsuite",
+    "description": "Track how many total subscriptions you have acquired and how many users are currently actively licensed",
+    "sources": ["GSUITE"],
+    "shortDescription": "Retrieve statistics about your G Suite reseller account",
+    "authType": ["NONE"],
+    "feeType": ["PAID"]
+  }
+}

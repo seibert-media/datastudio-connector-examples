@@ -1,0 +1,40 @@
+[
+    {
+        "addonKey": "",
+        "addonLicenseId": "",
+        "addonName": "",
+        "customerDetails": {
+            "company": "",
+            "country": "",
+            "region": "",
+            "technicalContact": {
+                "email": "",
+                "name": ""
+            }
+        },
+        "lastUpdated": "",
+        "licenseId": "",
+        "partnerDetails": {
+            "billingContact": {
+                "email": "",
+                "name": ""
+            },
+            "partnerName": "",
+            "partnerType": ""
+        },
+        "purchaseDetails": {
+            "billingPeriod": "",
+            "hosting": "",
+            "licenseType": "",
+            "maintenanceEndDate": "",
+            "maintenanceStartDate": "",
+            "partnerDiscountAmount": 0,
+            "purchasePrice": 0,
+            "saleDate": "",
+            "saleType": "",
+            "tier": "",
+            "vendorAmount": 0
+        },
+        "transactionId": ""
+    }
+]

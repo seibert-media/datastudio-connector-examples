@@ -1,0 +1,3 @@
+function getConfig(request) {
+    return {};
+}

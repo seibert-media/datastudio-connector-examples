@@ -1,0 +1,18 @@
+{
+  "name": "reseller-api-connector",
+  "version": "1.0.0",
+  "description": "Connects to the G Suite reseller API",
+  "main": "src/auth.ts",
+  "dependencies": {
+    "@types/google-apps-script": "^0.0.28"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
